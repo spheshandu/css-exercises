@@ -10,9 +10,9 @@ body {
   background: #aaa;
   color: #333;
   /* I'll give you this one for free */
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .modal {
@@ -30,9 +30,9 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .close-button {
@@ -43,9 +43,9 @@ body {
   font-size: 16px;
   height: 24px;
   width: 24px;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
   border: 1px solid #eee;
   padding: 0;
 }
